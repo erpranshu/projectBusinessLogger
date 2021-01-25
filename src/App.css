@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+.LoginMainBox{
+  text-align: center;
+  margin-top: 100px;
+  width:70%;
+  margin-right: 0px;
+}
+.loginButton{
+  margin-right: 500px;
+}
+.loginRegisterTitle{
+  margin-right: 500px;
+  margin-bottom: 40px;
+  color:cadetblue;
+}
+.homeTitle{
+  font-size: 3rem;
+  font-weight: 900;
+  line-height: 1.5;
+  color:cadetblue;
+  width: 400px;
+
+}
+.homepage{
+  background-color: cadetblue;
+}
+.invoiceAndInvestTexts{
+  color: cadetblue;
+}
+
+.homeMainBox{
+   margin-top: 100px;
+  margin-left: 0px;
+}
+.homeImage{
+  height:300px;
+}
